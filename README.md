@@ -18,4 +18,10 @@
 
 ### other 
 
-* > The file named 
+* > The file named C_linux_gcc.docx is how to use gcc. you can download it.
+
+
+#### 
+* > I also can use python, You also can communitcat with me, about Spider, Django, a little  Machine learning, Deep learning.
+
+# let's improve toghter!
